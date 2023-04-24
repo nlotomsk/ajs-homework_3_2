@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homework_3_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlotomsk/ajs-homework_3_2.git"
+  },
+  "author": "Senibratov V V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlotomsk/ajs-homework_3_2/issues"
+  },
+  "homepage": "https://github.com/nlotomsk/ajs-homework_3_2#readme",
+  "dependencies": {
+    "@nlotomsk/ajs-homework_3_1": "^1.0.1"
+  }
+}
